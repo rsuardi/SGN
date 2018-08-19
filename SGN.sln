@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.IDP", "SGN.IDP\SGN.IDP.csproj", "{CBBEABCE-6038-4F2B-B27A-0459DC9B2963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Api", "SGN.Api\SGN.Api.csproj", "{870A0202-234C-48CB-B03A-C3B1FD3F368E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Model", "SGN.Model\SGN.Model.csproj", "{26275236-5122-48B9-BE36-D94743AA8968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Data", "SGN.Data\SGN.Data.csproj", "{57F369AD-664D-465F-AB81-20784D37E54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Common", "SGN.Common\SGN.Common.csproj", "{E7A781E5-106E-407A-9CEE-27CA3A44869F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Mail", "SGN.Mail\SGN.Mail.csproj", "{3E56F9F4-647D-4CFD-8DDB-A290262D9B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGN.Client", "SGN.Client\SGN.Client.csproj", "{164B518F-26F1-4EC4-9C52-A48B3F479990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBEABCE-6038-4F2B-B27A-0459DC9B2963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBEABCE-6038-4F2B-B27A-0459DC9B2963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBEABCE-6038-4F2B-B27A-0459DC9B2963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBEABCE-6038-4F2B-B27A-0459DC9B2963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870A0202-234C-48CB-B03A-C3B1FD3F368E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870A0202-234C-48CB-B03A-C3B1FD3F368E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870A0202-234C-48CB-B03A-C3B1FD3F368E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870A0202-234C-48CB-B03A-C3B1FD3F368E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26275236-5122-48B9-BE36-D94743AA8968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26275236-5122-48B9-BE36-D94743AA8968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26275236-5122-48B9-BE36-D94743AA8968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26275236-5122-48B9-BE36-D94743AA8968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F369AD-664D-465F-AB81-20784D37E54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F369AD-664D-465F-AB81-20784D37E54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F369AD-664D-465F-AB81-20784D37E54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F369AD-664D-465F-AB81-20784D37E54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A781E5-106E-407A-9CEE-27CA3A44869F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A781E5-106E-407A-9CEE-27CA3A44869F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A781E5-106E-407A-9CEE-27CA3A44869F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A781E5-106E-407A-9CEE-27CA3A44869F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E56F9F4-647D-4CFD-8DDB-A290262D9B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E56F9F4-647D-4CFD-8DDB-A290262D9B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E56F9F4-647D-4CFD-8DDB-A290262D9B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E56F9F4-647D-4CFD-8DDB-A290262D9B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164B518F-26F1-4EC4-9C52-A48B3F479990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164B518F-26F1-4EC4-9C52-A48B3F479990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164B518F-26F1-4EC4-9C52-A48B3F479990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164B518F-26F1-4EC4-9C52-A48B3F479990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
